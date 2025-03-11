@@ -1,10 +1,23 @@
 ## Hi, I'm André Pinheiro 🚀🖥️
 
-Dedicated Computer Science student at the Universidade Federal de Santa Catarina (UFSC), with a strong focus on web development and data science.
+Computer Science student at the Universidade Federal de Santa Catarina (UFSC), with a strong focus on web development and data science.
+<div align="left">
+  <a href="mailto:paes.andre33@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align:top">
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:top">
+  </a>
+  <a href="https://github.com/deers" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="vertical-align:top">
+  </a>
+</div>
 
-![deerws's GitHub stats](https://github-readme-stats.vercel.app/api?username=deerws&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deerws&layout=compact)
-### Technologies currently using:
+![deerws's GitHub stats](https://github-readme-stats.vercel.app/api?username=deerws&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deerws&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+
+
+### Technologies currently using: 🤖
 
 <div style="display: inline_block"><br/>
   <img align="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
