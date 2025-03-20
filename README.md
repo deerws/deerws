@@ -8,7 +8,7 @@ Computer Science student at the Universidade Federal de Santa Catarina (UFSC), w
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:top">
   </a>
-  <a href="https://github.com/deers" target="_blank">
+  <a href="https://github.com/deerws" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="vertical-align:top">
   </a>
 </div>
