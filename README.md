@@ -1,6 +1,6 @@
 ## Hi, I'm André Pinheiro 🚀🖥️
 
-Computer Science student at the Universidade Federal de Santa Catarina (UFSC), with a strong focus on web development and data science.
+Computer Science student at the Universidade Federal de Santa Catarina (UFSC), with a focus on web development and data science.
 <div align="left">
   <a href="mailto:paes.andre33@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align:top">
