@@ -17,7 +17,6 @@ Computer Science student at the Universidade Federal de Santa Catarina (UFSC), w
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deerws&layout=compact&theme=tokyonight&langs_count=4)
 
 
-
 ### Technologies currently using: 🤖
 
 <div style="display: inline_block"><br/>
