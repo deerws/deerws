@@ -1,4 +1,4 @@
-## Hi, I'm André Pinheiro 🚀🖥️
+## Hi, I'm André Pinheiro Paes 🚀🖥️
 
 Computer Science student at the Universidade Federal de Santa Catarina (UFSC), with a focus on web development and data science.
 <div align="left">
