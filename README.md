@@ -5,7 +5,7 @@ Computer Science student at the Universidade Federal de Santa Catarina (UFSC), w
   <a href="mailto:paes.andre33@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align:top">
   </a>
-  <a href="https://www.linkedin.com/in/andré-pinheiro-paes-a53993326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/andrepinheiropaes/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:top">
   </a>
   <a href="https://github.com/deerws" target="_blank">
