@@ -19,7 +19,7 @@ Computer Science student at UFSC, focused on data science and AI engineering.
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=deerws&theme=tokyonight&hide_border=false" />
   &nbsp;&nbsp;
-  <img height="160" src="https://languagestats.com/api/?username=deerws&theme=tokyonight&layout=compact" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deerws&theme=tokyonight" />
 </div>
 
 ### 🧠 Tech Stack — Data Science & AI
