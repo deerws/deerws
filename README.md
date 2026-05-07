@@ -17,9 +17,8 @@ Computer Science student at UFSC, focused on data science and AI engineering.
 <br/>
 
 <div align="center">
-  <!-- Estatísticas do GitHub -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=deerws&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
-  <!-- Top linguagens (oculta HTML/CSS) -->
+  &nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deerws&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
 </div>
 
