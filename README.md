@@ -15,11 +15,13 @@ Computer Science student at UFSC, focused on data science and AI engineering.
 </div>
 
 <br/>
+
 <div align="center">
   <img height="160" src="https://readme-stats-sigma-five.vercel.app/api?username=deerws&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
   &nbsp;&nbsp;
   <img height="160" src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=deerws&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
 </div>
+
 ### 🧠 Tech Stack — Data Science & AI
 
 <div>
