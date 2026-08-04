@@ -19,10 +19,11 @@
 <br/>
 
 <!-- ===================== STATS ===================== -->
+<!-- 👉 Troque "SEU-PROJETO.vercel.app" pela URL da SUA instância do github-readme-stats -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deerws&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://SEU-PROJETO.vercel.app/api?username=deerws&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deerws&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img height="165" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=deerws&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
